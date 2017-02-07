@@ -1,1 +1,1 @@
-# atconfig
+# Aimtux Configs
