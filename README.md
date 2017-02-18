@@ -1,3 +1,10 @@
+### How to install?
+open file manager, press <kbd>CTRL</kbd>+<kbd>H</kbd>
+just copy & paste <kbd>Insert</kbd> to
+```
+~/.config/AimTux
+```
+
 [AimTux](https://github.com/AimTuxOfficial/AimTux)
 
 
