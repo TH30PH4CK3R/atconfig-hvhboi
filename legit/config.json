@@ -229,7 +229,7 @@
             },
             "AutoAim" : {
                "Enabled" : true,
-               "FOV" : 6.0450000762939453,
+               "FOV" : 11.418000221252441,
                "RealDistance" : false
             },
             "AutoPistol" : {
@@ -367,7 +367,7 @@
             },
             "AutoAim" : {
                "Enabled" : true,
-               "FOV" : 4.7010002136230469,
+               "FOV" : 8.7309999465942383,
                "RealDistance" : false
             },
             "AutoPistol" : {
@@ -1672,9 +1672,9 @@
          "Arms" : {
             "color" : {
                "a" : 1,
-               "b" : 0.28627452254295349,
-               "g" : 0.16862745583057404,
-               "r" : 0.458823561668396
+               "b" : 0.51758790016174316,
+               "g" : 0.43268236517906189,
+               "r" : 0.22108027338981628
             },
             "enabled" : false,
             "type" : 0
@@ -1724,7 +1724,7 @@
             "g" : 0.94509804248809814,
             "r" : 0.41176474094390869
          },
-         "type" : 1
+         "type" : 3
       },
       "FOVCrosshair" : {
          "color" : {
@@ -2012,7 +2012,7 @@
    "FakeLag" : {
       "adaptive" : false,
       "enabled" : false,
-      "value" : 9
+      "value" : 0
    },
    "JumpThrow" : {
       "enabled" : false,
@@ -2130,13 +2130,13 @@
       "resolve_all" : false
    },
    "ScreenshotCleaner" : {
-      "enabled" : true
+      "enabled" : false
    },
    "ShowRanks" : {
       "enabled" : true
    },
    "ShowSpectators" : {
-      "enabled" : false
+      "enabled" : true
    },
    "SkinChanger" : {
       "Models" : {
