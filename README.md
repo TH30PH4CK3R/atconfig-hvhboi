@@ -1,6 +1,7 @@
 ### How to install?
 open file manager, press <kbd>CTRL</kbd>+<kbd>H</kbd>
-just copy & paste <kbd>Insert</kbd> to
+
+now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage mm no aa</kbd> to
 ```
 ~/.config/AimTux
 ```
