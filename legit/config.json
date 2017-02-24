@@ -371,7 +371,7 @@
                "RealDistance" : false
             },
             "AutoPistol" : {
-               "Enabled" : true
+               "Enabled" : false
             },
             "AutoScope" : {
                "Enabled" : false
@@ -1651,6 +1651,9 @@
       "type" : 0,
       "value" : ""
    },
+   "DisablePostProcessing" : {
+      "enabled" : false
+   },
    "Dlights" : {
       "enabled" : false,
       "radius" : 500
@@ -2144,7 +2147,7 @@
       },
       "Skins" : {
          "enabled" : true,
-         "perTeam" : true
+         "perTeam" : false
       },
       "skinsCT" : {
          "ct_gloves" : {
@@ -2205,18 +2208,18 @@
          },
          "t_gloves" : {
             "CustomName" : "",
-            "ItemDefinitionIndex" : "studded_bloodhound_gloves",
+            "ItemDefinitionIndex" : "t_gloves",
             "PaintKit" : 10006,
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
          },
          "weapon_ak47" : {
-            "CustomName" : "TestTux",
+            "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 524,
-            "Seed" : -1,
-            "StatTrak" : 1337,
+            "PaintKit" : 44,
+            "Seed" : 320,
+            "StatTrak" : 21,
             "Wear" : 0.00050000002374872565
          },
          "weapon_awp" : {
@@ -2234,6 +2237,14 @@
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
+         },
+         "weapon_glock" : {
+            "CustomName" : "",
+            "ItemDefinitionIndex" : "DEFAULT",
+            "PaintKit" : 38,
+            "Seed" : 80,
+            "StatTrak" : -1,
+            "Wear" : 0
          },
          "weapon_knife" : {
             "CustomName" : "",
@@ -2329,6 +2340,14 @@
             "PaintKit" : 440,
             "Seed" : 110,
             "StatTrak" : 23,
+            "Wear" : 0.00050000002374872565
+         },
+         "weapon_ssg08" : {
+            "CustomName" : "",
+            "ItemDefinitionIndex" : "DEFAULT",
+            "PaintKit" : 222,
+            "Seed" : 320,
+            "StatTrak" : 1337,
             "Wear" : 0.00050000002374872565
          },
          "weapon_usp_silencer" : {
@@ -2571,22 +2590,22 @@
          }
       },
       "bodyColor" : {
-         "a" : 0.94117653369903564,
-         "b" : 0.094117656350135803,
-         "g" : 0.094117656350135803,
-         "r" : 0.094117656350135803
+         "a" : 1,
+         "b" : 0.13493829965591431,
+         "g" : 0.13567841053009033,
+         "r" : 0.13022400438785553
       },
       "fontColor" : {
          "a" : 1,
-         "b" : 1,
-         "g" : 1,
+         "b" : 0.99998998641967773,
+         "g" : 0.99998998641967773,
          "r" : 1
       },
       "mainColor" : {
          "a" : 1,
-         "b" : 0.21176260709762573,
-         "g" : 0.21176260709762573,
-         "r" : 0.21176472306251526
+         "b" : 0.30150753259658813,
+         "g" : 0.29737368226051331,
+         "r" : 0.027272053062915802
       }
    },
    "View" : {
