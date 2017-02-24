@@ -1,7 +1,7 @@
 ### How to install?
 open file manager, press <kbd>CTRL</kbd>+<kbd>H</kbd>
 
-now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage mm no aa</kbd> folders to
+now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage</kbd> folders to
 ```
 ~/.config/AimTux
 ```
@@ -14,3 +14,10 @@ now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage mm no aa</kbd> folder
 [Legit config](https://github.com/hvhboi/atconfig/tree/master/legit)
 
 [MM Rage config](https://github.com/hvhboi/atconfig/tree/master/rage%20mm%20no%20aa) (no aa)
+
+
+### Screenshots (legit cfg)
+![gui](http://i.imgur.com/skVbQCi.png)
+![vis-invis](http://i.imgur.com/9Mizs5D.jpg)
+![vis](http://i.imgur.com/fOfqeYV.jpg)
+![invis](http://aimtux.net/images/banner.png)
