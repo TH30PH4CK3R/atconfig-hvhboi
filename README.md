@@ -19,5 +19,5 @@ now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage</kbd> folders to
 ### Screenshots (legit cfg)
 ![gui](http://i.imgur.com/skVbQCi.png)
 ![vis-invis](http://i.imgur.com/9Mizs5D.jpg)
-![vis](http://i.imgur.com/fOfqeYV.jpg)
+![vis](http://i.imgur.com/sF00Ybk.jpg)
 ![invis](http://i.imgur.com/fOfqeYV.jpg)
