@@ -9,13 +9,13 @@ now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage</kbd> folders to
 [AimTux](https://github.com/AimTuxOfficial/AimTux)
 
 
-[HvH config](https://github.com/hvhboi/atconfig/tree/master/HvH) [NEW!]
+[HvH config](https://github.com/hvhboi/atconfig/tree/master/HvH) [Updated]
 
-[Legit config](https://github.com/hvhboi/atconfig/tree/master/legit)
+[Legit config](https://github.com/hvhboi/atconfig/tree/master/legit) [Updated]
 
-[Ultra Legit config](https://github.com/hvhboi/atconfig-hvhboi/tree/master/Ultra%20Legit)
+[Ultra Legit config](https://github.com/hvhboi/atconfig-hvhboi/tree/master/Ultra%20Legit) [NEW!]
 
-[MM Rage config](https://github.com/hvhboi/atconfig/tree/master/rage%20mm%20no%20aa) (no aa)
+[MM Rage config](https://github.com/hvhboi/atconfig/tree/master/rage%20mm%20no%20aa) (old af, no aa)
 
 
 ### Screenshots (legit cfg)
