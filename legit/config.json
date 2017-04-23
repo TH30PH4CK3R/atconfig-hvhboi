@@ -427,7 +427,7 @@
                },
                "Type" : 0
             },
-            "TargetBone" : 7
+            "TargetBone" : 8
          },
          "weapon_elite" : {
             "AimKey" : "MOUSE3",
@@ -2297,7 +2297,7 @@
       "enabled" : true
    },
    "ShowSpectators" : {
-      "enabled" : true
+      "enabled" : false
    },
    "SkinChanger" : {
       "Models" : {
@@ -2391,7 +2391,15 @@
          "weapon_deagle" : {
             "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 645,
+            "PaintKit" : 37,
+            "Seed" : -1,
+            "StatTrak" : -1,
+            "Wear" : 0.00050000002374872565
+         },
+         "weapon_famas" : {
+            "CustomName" : "",
+            "ItemDefinitionIndex" : "DEFAULT",
+            "PaintKit" : 626,
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
@@ -2414,7 +2422,7 @@
          },
          "weapon_knife" : {
             "CustomName" : "",
-            "ItemDefinitionIndex" : "weapon_knife_karambit",
+            "ItemDefinitionIndex" : "weapon_knife_m9_bayonet",
             "PaintKit" : -1,
             "Seed" : -1,
             "StatTrak" : -1,
@@ -2463,7 +2471,7 @@
          "weapon_knife_m9_bayonet" : {
             "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 12,
+            "PaintKit" : 59,
             "Seed" : 223,
             "StatTrak" : -9,
             "Wear" : 0.00050000002374872565
@@ -2486,7 +2494,7 @@
          },
          "weapon_knife_t" : {
             "CustomName" : "",
-            "ItemDefinitionIndex" : "weapon_knife_karambit",
+            "ItemDefinitionIndex" : "weapon_knife_m9_bayonet",
             "PaintKit" : -1,
             "Seed" : -1,
             "StatTrak" : -1,
@@ -2688,7 +2696,7 @@
          },
          "weapon_knife_t" : {
             "CustomName" : "",
-            "ItemDefinitionIndex" : "weapon_knife_karambit",
+            "ItemDefinitionIndex" : "weapon_knife_m9_bayonet",
             "PaintKit" : -1,
             "Seed" : -1,
             "StatTrak" : -1,
