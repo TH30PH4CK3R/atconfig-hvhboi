@@ -289,7 +289,7 @@
                },
                "Type" : 0
             },
-            "TargetBone" : 6
+            "TargetBone" : 7
          },
          "weapon_bizon" : {
             "AimKey" : "MOUSE3",
