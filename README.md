@@ -17,6 +17,8 @@ now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage</kbd> folders to
 
 [MM Rage config](https://github.com/hvhboi/atconfig/tree/master/rage%20mm%20no%20aa) (old af, no aa)
 
+[Faceit config](https://github.com/hvhboi/atconfig-hvhboi/tree/master/Faceit) [NEW!]
+
 
 ### Screenshots (legit cfg)
 ![gui](http://i.imgur.com/skVbQCi.png)
