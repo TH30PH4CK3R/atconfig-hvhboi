@@ -289,7 +289,7 @@
                },
                "Type" : 0
             },
-            "TargetBone" : 6
+            "TargetBone" : 7
          },
          "weapon_bizon" : {
             "AimKey" : "MOUSE3",
@@ -764,7 +764,7 @@
                "Enabled" : true
             },
             "Smooth" : {
-               "Amount" : 0.40000000596046448,
+               "Amount" : 0.79500001668930054,
                "Enabled" : true,
                "Salting" : {
                   "Enabled" : true,
@@ -772,7 +772,7 @@
                },
                "Type" : 0
             },
-            "TargetBone" : 7
+            "TargetBone" : 8
          },
          "weapon_m4a1" : {
             "AimKey" : "MOUSE3",
@@ -1663,7 +1663,7 @@
    "ESP" : {
       "Bars" : {
          "color_type" : 1,
-         "enabled" : true,
+         "enabled" : false,
          "type" : 2
       },
       "Boxes" : {
@@ -1697,7 +1697,7 @@
             },
             "enabled" : false
          },
-         "enabled" : true,
+         "enabled" : false,
          "localplayer_color" : {
             "a" : 1,
             "b" : 0.28627452254295349,
@@ -1874,7 +1874,7 @@
          "has_defuser" : false,
          "health" : false,
          "location" : false,
-         "name" : false,
+         "name" : true,
          "planting" : false,
          "rank" : false,
          "reloading" : false,
@@ -2749,14 +2749,14 @@
          "value" : 28
       },
       "Filters" : {
-         "allies" : false,
+         "allies" : true,
          "arms" : true,
          "chest" : true,
          "enemies" : true,
          "flash_check" : true,
          "head" : true,
          "legs" : true,
-         "smoke_check" : false,
+         "smoke_check" : true,
          "stomach" : true,
          "walls" : true
       },
