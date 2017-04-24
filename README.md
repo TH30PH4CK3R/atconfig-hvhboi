@@ -19,6 +19,11 @@ now copy & paste <kbd>hvh</kbd> <kbd>legit</kbd> <kbd>rage</kbd> folders to
 
 [Faceit config](https://github.com/hvhboi/atconfig-hvhboi/tree/master/Faceit) [NEW!]
 
+### Screenshots (Ultra Legit cfg)
+
+![gui](http://i.imgur.com/2498Mbw.jpg)
+![invis](http://i.imgur.com/2498Mbw.jpg)
+![vis](http://i.imgur.com/fdb3iRU.jpg)
 
 ### Screenshots (legit cfg)
 ![gui](http://i.imgur.com/skVbQCi.png)
