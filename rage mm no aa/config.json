@@ -382,8 +382,8 @@
       "Yaw" : {
          "antiResolver" : false,
          "enabled" : false,
-         "type" : 5,
-         "type_fake" : 3
+         "type" : 3,
+         "type_fake" : 5
       }
    },
    "AutoAccept" : {
@@ -408,15 +408,15 @@
       "animation" : false,
       "animation_speed" : 253,
       "enabled" : true,
-      "type" : 1,
-      "value" : "minecraft.net"
+      "type" : 0,
+      "value" : "[VALVᴱ]"
    },
    "DisablePostProcessing" : {
       "enabled" : false
    },
    "Dlights" : {
       "enabled" : false,
-      "radius" : 500
+      "radius" : 1000
    },
    "ESP" : {
       "Bars" : {
@@ -435,21 +435,21 @@
          "Arms" : {
             "color" : {
                "a" : 1,
-               "b" : 0.28627452254295349,
-               "g" : 0.16862745583057404,
-               "r" : 0.458823561668396,
+               "b" : 0.32160806655883789,
+               "g" : 0.29859057068824768,
+               "r" : 0.10343174636363983,
                "rainbow" : false,
                "rainbowSpeed" : 0.5
             },
             "enabled" : false,
-            "type" : 1
+            "type" : 0
          },
          "Weapon" : {
             "color" : {
                "a" : 1,
-               "b" : 1,
-               "g" : 1,
-               "r" : 1,
+               "b" : 0.32156863808631897,
+               "g" : 0.29803931713104248,
+               "r" : 0.10196078568696976,
                "rainbow" : false,
                "rainbowSpeed" : 0.5
             },
@@ -506,8 +506,8 @@
       "FOVCrosshair" : {
          "color" : {
             "a" : 1,
-            "b" : 0.19607844948768616,
-            "g" : 0.19607844948768616,
+            "b" : 0.19607849419116974,
+            "g" : 0.19607849419116974,
             "r" : 0.70588237047195435,
             "rainbow" : false,
             "rainbowSpeed" : 0.5
@@ -526,7 +526,7 @@
          "legit" : false,
          "localplayer" : false,
          "smoke_check" : false,
-         "throwables" : false,
+         "throwables" : true,
          "visibility_check" : false,
          "weapons" : false
       },
@@ -612,8 +612,8 @@
          "allies" : false,
          "color" : {
             "a" : 1,
-            "b" : 0.039215687662363052,
-            "g" : 0.039215687662363052,
+            "b" : 0.039215706288814545,
+            "g" : 0.039215706288814545,
             "r" : 0.94117653369903564,
             "rainbow" : false,
             "rainbowSpeed" : 0.5
@@ -650,7 +650,7 @@
             "rainbow" : false,
             "rainbowSpeed" : 0.5
          },
-         "enabled" : false
+         "enabled" : true
       },
       "Sounds" : {
          "enabled" : false,
@@ -663,7 +663,7 @@
       "ally_color" : {
          "a" : 1,
          "b" : 0.94117653369903564,
-         "g" : 0.23534910380840302,
+         "g" : 0.23536038398742676,
          "hp" : false,
          "r" : 0.23529407382011414,
          "rainbow" : false,
@@ -672,7 +672,7 @@
       "ally_visible_color" : {
          "a" : 1,
          "b" : 0.94117653369903564,
-         "g" : 0.72565263509750366,
+         "g" : 0.72566455602645874,
          "hp" : false,
          "r" : 0.23529407382011414,
          "rainbow" : false,
@@ -680,8 +680,8 @@
       },
       "bomb_color" : {
          "a" : 1,
-         "b" : 0.7568628191947937,
-         "g" : 0.18823531270027161,
+         "b" : 0.75686275959014893,
+         "g" : 0.18823529779911041,
          "r" : 0.9490196704864502,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
@@ -689,8 +689,8 @@
       "bomb_defusing_color" : {
          "a" : 1,
          "b" : 0.9490196704864502,
-         "g" : 0.18823531270027161,
-         "r" : 0.39215689897537231,
+         "g" : 0.18823529779911041,
+         "r" : 0.39211905002593994,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
@@ -705,18 +705,18 @@
       "ct_color" : {
          "a" : 1,
          "b" : 0.94117653369903564,
-         "g" : 0.23529413342475891,
+         "g" : 0.23530519008636475,
          "hp" : false,
-         "r" : 0.23529413342475891,
+         "r" : 0.23529407382011414,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
       "ct_visible_color" : {
          "a" : 1,
          "b" : 0.94117653369903564,
-         "g" : 0.72549021244049072,
+         "g" : 0.72554153203964233,
          "hp" : false,
-         "r" : 0.23529413342475891,
+         "r" : 0.23529407382011414,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
@@ -739,10 +739,10 @@
       "enabled" : true,
       "enemy_color" : {
          "a" : 1,
-         "b" : 1,
-         "g" : 0.0050251483917236328,
-         "hp" : false,
-         "r" : 0.55499053001403809,
+         "b" : 0.40703517198562622,
+         "g" : 0.29453805088996887,
+         "hp" : true,
+         "r" : 0.35781437158584595,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
@@ -781,15 +781,15 @@
       },
       "hostage_color" : {
          "a" : 1,
-         "b" : 0.7568628191947937,
-         "g" : 0.18823531270027161,
+         "b" : 0.75686275959014893,
+         "g" : 0.18823529779911041,
          "r" : 0.9490196704864502,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
       "localplayer_color" : {
          "a" : 1,
-         "b" : 0.28627452254295349,
+         "b" : 0.28627455234527588,
          "g" : 0.16862745583057404,
          "hp" : false,
          "r" : 0.458823561668396,
@@ -814,8 +814,8 @@
       },
       "t_color" : {
          "a" : 1,
-         "b" : 0.23529413342475891,
-         "g" : 0.23529413342475891,
+         "b" : 0.23529407382011414,
+         "g" : 0.23529407382011414,
          "hp" : false,
          "r" : 0.94117653369903564,
          "rainbow" : false,
@@ -823,8 +823,8 @@
       },
       "t_visible_color" : {
          "a" : 1,
-         "b" : 0.23529413342475891,
-         "g" : 0.72549021244049072,
+         "b" : 0.23529407382011414,
+         "g" : 0.72549015283584595,
          "hp" : false,
          "r" : 0.94117653369903564,
          "rainbow" : false,
@@ -848,15 +848,15 @@
       "ignore_scope" : true,
       "value" : 110.45500183105469,
       "viewmodel_enabled" : true,
-      "viewmodel_value" : 68.1820068359375
+      "viewmodel_value" : 80.909004211425781
    },
    "FakeLag" : {
       "adaptive" : false,
       "enabled" : false,
-      "value" : 0
+      "value" : 14
    },
    "GrenadeHelper" : {
-      "OnlyMatching" : true,
+      "OnlyMatching" : false,
       "aimAssist" : false,
       "aimDistance" : 75,
       "aimDot" : {
@@ -920,7 +920,7 @@
       "team" : 1
    },
    "NoScopeBorder" : {
-      "enabled" : false
+      "enabled" : true
    },
    "NoSky" : {
       "color" : {
@@ -938,7 +938,7 @@
    },
    "Noflash" : {
       "enabled" : true,
-      "value" : 160
+      "value" : 255
    },
    "Radar" : {
       "InGame" : {
@@ -998,7 +998,7 @@
          "rainbowSpeed" : 0.5
       },
       "enabled" : false,
-      "enemies" : false,
+      "enemies" : true,
       "enemy_color" : {
          "a" : 1,
          "b" : 0.12549020349979401,
@@ -1055,7 +1055,7 @@
       "enabled" : false
    },
    "ShowSpectators" : {
-      "enabled" : true
+      "enabled" : false
    },
    "SkinChanger" : {
       "Models" : {
@@ -1069,7 +1069,7 @@
          "weapon_ak47" : {
             "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 600,
+            "PaintKit" : 639,
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
@@ -1101,7 +1101,7 @@
          "weapon_deagle" : {
             "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 1,
+            "PaintKit" : 37,
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
@@ -1109,7 +1109,7 @@
          "weapon_elite" : {
             "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 249,
+            "PaintKit" : 261,
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
@@ -1173,10 +1173,18 @@
          "weapon_knife_m9_bayonet" : {
             "CustomName" : "",
             "ItemDefinitionIndex" : "DEFAULT",
-            "PaintKit" : 567,
+            "PaintKit" : 59,
             "Seed" : -1,
             "StatTrak" : -1,
             "Wear" : 0.00050000002374872565
+         },
+         "weapon_knife_t" : {
+            "CustomName" : "",
+            "ItemDefinitionIndex" : "weapon_knife_m9_bayonet",
+            "PaintKit" : -1,
+            "Seed" : -1,
+            "StatTrak" : -1,
+            "Wear" : -1
          },
          "weapon_m249" : {
             "CustomName" : "",
@@ -1334,7 +1342,7 @@
       "skinsT" : {
          "weapon_knife_t" : {
             "CustomName" : "",
-            "ItemDefinitionIndex" : "weapon_knife_karambit",
+            "ItemDefinitionIndex" : "weapon_knife_m9_bayonet",
             "PaintKit" : -1,
             "Seed" : -1,
             "StatTrak" : -1,
@@ -1347,11 +1355,12 @@
    },
    "Spammer" : {
       "KillSpammer" : {
-         "enabled" : true,
+         "enabled" : false,
          "messages" : [
-            "$nick watches anime",
-            "$nick just got baim'd",
-            "$nick using e z f r a g s"
+            "I'm not using www.EZfrags.co.uk, you're just bad",
+            "You just got pwned by EZfrags, the #1 CS:GO cheat",
+            "If I was cheating, I'd use www.EZfrags.co.uk",
+            "Think you could do better? Not without www.EZfrags.co.uk"
          ],
          "say_team" : false
       },
@@ -1382,7 +1391,7 @@
       "key" : 82
    },
    "ThirdPerson" : {
-      "distance" : 90,
+      "distance" : 100,
       "enabled" : false
    },
    "Triggerbot" : {
@@ -1414,26 +1423,26 @@
          }
       },
       "bodyColor" : {
-         "a" : 0.94117653369903564,
-         "b" : 0.094117656350135803,
-         "g" : 0.094117656350135803,
-         "r" : 0.094117656350135803,
+         "a" : 1,
+         "b" : 0.12562811374664307,
+         "g" : 0.12350527197122574,
+         "r" : 0.1199464350938797,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
       "fontColor" : {
          "a" : 1,
-         "b" : 0,
+         "b" : 0.99998998641967773,
          "g" : 1,
-         "r" : 0.2797619104385376,
+         "r" : 0.99999290704727173,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       },
       "mainColor" : {
          "a" : 1,
-         "b" : 0.21176472306251526,
-         "g" : 0.21176472306251526,
-         "r" : 0.21176472306251526,
+         "b" : 0.22110551595687866,
+         "g" : 0.20341750979423523,
+         "r" : 0.18555085361003876,
          "rainbow" : false,
          "rainbowSpeed" : 0.5
       }
